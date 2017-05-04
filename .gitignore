@@ -1,3 +1,6 @@
 *.csv
 *.pdf
 *.txt
+*.xls
+*.xlsx
+course1/.ipynb_checkpoints/
